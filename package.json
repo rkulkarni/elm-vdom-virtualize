@@ -1,0 +1,12 @@
+{
+  "name": "elm-vdom-virtualize",
+  "version": "1.0.0",
+  "description": "Elm wrapper for vdom-virtualize",
+  "dependencies": {
+    "vdom-virtualize": "1.0.1",
+    "virtual-dom": "2.1.1"
+  },
+  "devDependencies": {
+      "browserify": "12.0.1"
+  }
+}
